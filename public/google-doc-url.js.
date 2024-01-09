@@ -1,3 +1,4 @@
 // Enter an ID for the Google Docs document you want to use (e.g. 1SPbM4hN1j5pf1XnqyH2zQCWzKgTMQkz4g8y2-Ju5MUo).
 var googleDocURL = 'https://docs.google.com/spreadsheets/d/1_jQ6-HL9C-ltd5j_yaj40tWECCxxPtVS6Hg0Etsecds/edit#gid=0';
+var googleApiKey = 'AIzaSyCGWpwsxXuz5jgRtlYgVZd40xhP-GQIR1M' ;
 
